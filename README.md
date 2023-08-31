@@ -33,7 +33,7 @@ This README provides instructions for setting up and running a Node.js applicati
    ```
 
 6. Access the Application
-   After successfully starting the application, you can access it by opening a web browser and navigating to the appropriate URL (usually `http://localhost:3000` by default).
+   After successfully starting the application, you can access it by opening a web browser and navigating to the appropriate URL (usually `http://localhost:3000/api-docs` by default).
 
 ## Additional Information
 
